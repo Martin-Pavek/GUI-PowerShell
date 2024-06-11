@@ -1,0 +1,3 @@
+
+PoweShell podobne jako treba javascript umoznuje vytvaret ruzne dialogy jako
+jsou tlacitka [OK], CheckBoxy RadioButtony apod.
